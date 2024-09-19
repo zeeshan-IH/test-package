@@ -1,0 +1,27 @@
+{
+  "name": "test_package_zee",
+  "version": "1.0.2",
+  "description": "A test npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeeshan-IH/test-package.git"
+  },
+  "keywords": [
+    "test",
+    "npm",
+    "package",
+    "package",
+    "sample"
+  ],
+  "author": "Zeeshan A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeeshan-IH/test-package/issues"
+  },
+  "homepage": "https://github.com/zeeshan-IH/test-package#readme"
+}
